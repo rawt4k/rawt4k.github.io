@@ -21,4 +21,4 @@ Then `https://ventispurr.github.io` will redirect you to the rick roll video.
 ## License
 This repository is licensed under Apache-2.0 License
 
-You can view the license [here](https://github.com/RickrollRedirect/rickrollredirect.github.io/blob/master/LICENSE).
+You can view the license [here](https://github.com/Ventispurr/ventispurr.github.io/blob/main/LICENSE).
