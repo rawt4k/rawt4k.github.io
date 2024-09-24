@@ -14,9 +14,9 @@ However, when you shorten `https://ventispurr.github.io`, it will show nothing.
 ![Link on Discord with Rickroll redirect](https://i.imgur.com/kQNSBuC.png)
 
 ## How it works
-The shortened link will redirect you to `https://ventispurr.github.io`.
+The shortened link will redirect you to `https://rawt4k.github.io`.
 
-Then `https://ventispurr.github.io` will redirect you to the rick roll video.
+Then `https://rawt4k.github.io` will redirect you to the rick roll video.
 
 ## License
 This repository is licensed under Apache-2.0 License
